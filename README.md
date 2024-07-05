@@ -85,6 +85,7 @@
 #### E companies
 * Ebay https://www.ebayinc.com/stories/blogs/tech/
 * eFounders https://medium.com/unexpected-token
+* Encore https://encore.dev/blog
 * Engine Yard https://blog.engineyard.com/
 * Entelo https://sourcecode.entelo.com/
 * Envato https://webuild.envato.com/
