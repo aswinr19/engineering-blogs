@@ -296,6 +296,8 @@
 * Zapier https://zapier.com/engineering/
 * Zendesk https://medium.com/zendesk-engineering
 * Zendesk(old) https://developer.zendesk.com/blog
+* Zerodha https://zerodha.tech/blog/
+
 
 ### Individuals/Group Contributors
 
